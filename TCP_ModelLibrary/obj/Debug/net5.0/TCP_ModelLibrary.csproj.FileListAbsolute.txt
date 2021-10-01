@@ -1,0 +1,12 @@
+C:\Users\ebrub\source\repos\TCP_ModelLibrary\bin\Debug\net5.0\TCP_ModelLibrary.deps.json
+C:\Users\ebrub\source\repos\TCP_ModelLibrary\bin\Debug\net5.0\TCP_ModelLibrary.dll
+C:\Users\ebrub\source\repos\TCP_ModelLibrary\bin\Debug\net5.0\ref\TCP_ModelLibrary.dll
+C:\Users\ebrub\source\repos\TCP_ModelLibrary\bin\Debug\net5.0\TCP_ModelLibrary.pdb
+C:\Users\ebrub\source\repos\TCP_ModelLibrary\obj\Debug\net5.0\TCP_ModelLibrary.csproj.AssemblyReference.cache
+C:\Users\ebrub\source\repos\TCP_ModelLibrary\obj\Debug\net5.0\TCP_ModelLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ebrub\source\repos\TCP_ModelLibrary\obj\Debug\net5.0\TCP_ModelLibrary.AssemblyInfoInputs.cache
+C:\Users\ebrub\source\repos\TCP_ModelLibrary\obj\Debug\net5.0\TCP_ModelLibrary.AssemblyInfo.cs
+C:\Users\ebrub\source\repos\TCP_ModelLibrary\obj\Debug\net5.0\TCP_ModelLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ebrub\source\repos\TCP_ModelLibrary\obj\Debug\net5.0\TCP_ModelLibrary.dll
+C:\Users\ebrub\source\repos\TCP_ModelLibrary\obj\Debug\net5.0\ref\TCP_ModelLibrary.dll
+C:\Users\ebrub\source\repos\TCP_ModelLibrary\obj\Debug\net5.0\TCP_ModelLibrary.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Opgave5_TCP/1.0.0": {
+        "dependencies": {
+          "TCP_ModelLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Opgave5_TCP.dll": {}
+        }
+      },
+      "TCP_ModelLibrary/1.0.0": {
+        "runtime": {
+          "TCP_ModelLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Opgave5_TCP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TCP_ModelLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
